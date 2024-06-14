@@ -1,4 +1,4 @@
-# WordCapture
+# [WordCapture](https://word-capture.netlify.app/)
 
 WordCapture is a Vite-powered React application designed for transcribing and translating speech or uploaded audio files (.mp3 or .wav). Users can easily convert speech to text, copy or download the transcription, and translate the text into various languages with options to copy or download the translated text.
 
